@@ -5,6 +5,7 @@ class LessonOne {
 
       for (int i = 0; i < 7; i+=2 ) {
         System.out.println("Impending Doom!!!!!!");
+        System.out.println("meh");
       }
         System.out.println("new program");
     }
